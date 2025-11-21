@@ -1,0 +1,86 @@
+[
+  {
+    "ma": "provider-thvli",
+    "url": "https://iptv.cameraddns.net/index.php",
+    "image": "https://www.thvli.vn/static/media/logo.png",
+    "mota": "Truyền hình Vĩnh Long made by Nguyen Thanh Hai"
+  },
+  {
+    "ma": "xembongda",
+    "url": "https://iptv.cameraddns.net/kodi/m3u_to_iptvschema.php",
+    "image": "https://iptv.cameraddns.net/kodi/logo.png",
+    "mota": "Danh sách kênh được chuyển đổi từ M3U"
+  },
+  {
+    "ma": "tonghoptruyenhinh",
+    "url": "https://iptv.cameraddns.net/kodi/tivi_iptvschema.php",
+    "image": "https://iptv.cameraddns.net/kodi/logo.png",
+    "mota": "Danh sách kênh truyền hình được chuyển đổi từ M3U, kênh được tổng hợp từ https://xem.hoiquan.click"
+  },
+  {
+    "ma": "xoilacz-pvd",
+    "url": "https://providers.cotivi.online/xoilacz",
+    "image": "https://api.cotivi.online/images/xlz.png",
+    "mota": "Xôi Lạc"
+  },
+  {
+    "ma": "robongz-pvd",
+    "url": "https://providers.cotivi.online/robongz",
+    "image": "https://api.cotivi.online/images/robong1.png",
+    "mota": "Rổ bóng"
+  },
+  {
+    "ma": "cakhiaz-pvd",
+    "url": "https://providers.cotivi.online/cakhiaz",
+    "image": "https://api.cotivi.online/images/cktv3.png",
+    "mota": "Cà Khịa"
+  },
+  {
+    "ma": "rakhoiz-pvd",
+    "url": "https://providers.cotivi.online/rakhoiz",
+    "image": "https://api.cotivi.online/images/rktv.png",
+    "mota": "Ra Khơi"
+  },
+  {
+    "ma": "socolive-pvd",
+    "url": "https://hxcv.site/socolive",
+    "image": "https://socolive101.ac/wp-content/uploads/2023/06/cropped-LOGO-socolive-1-192x192.png",
+    "mota": "Socolive - Xem Trực Tiếp Bóng Đá Socolive TV Mới Nhất"
+  },
+  {
+    "ma": "buncha-pvd",
+    "url": "https://hxcv.site/buncha",
+    "image": "https://hxcv.site/assets/buncha_logo.jpeg",
+    "mota": "Bún Chả TV - Trang web phát sóng bóng đá trực tuyến miễn phí hàng đầu tại Việt Nam, mang đến trải nghiệm chất lượng cao với bình luận tiếng Việt sống động."
+  },
+  {
+    "ma": "khandaia-pvd",
+    "url": "https://hxcv.site/khandaia",
+    "image": "https://hxcv.site/assets/khandaia_logo.png",
+    "mota": "Khán Đài A - Xem Trực Tiếp Bóng Đá Khandaia Miễn Phí Nhanh Nhất"
+  },
+  {
+    "ma": "vachvoi-pvd",
+    "url": "https://hxcv.site/vachvoi",
+    "image": "https://live2.vachvoi.cc/picture/logo/vachvoi.png",
+    "mota": "VachvoiTV - Xem trực tiếp bóng đá trên Vạch Vôi TV"
+  },
+  {
+    "ma": "chuoichien-pvd",
+    "url": "https://hxcv.site/chuoichien",
+    "image": "https://cdnvn.chuoichientv.com/favicon.ico",
+    "mota": "Xem bóng đá trực tuyến HD không quảng cáo tại Chuối Chiên TV."
+  },
+  {
+    "ma": "fptplay",
+    "url": "http://iptv.nhadai.org/v1",
+    "image": "http://iptv.nhadai.org/logo.png",
+    "mota": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế."
+  },
+  {
+    "ma": "vtvgo",
+    "url": "https://vtvgo.4share.me",
+    "image": "https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png",
+    "mota": "VTVgo là sản phẩm của VTV, cung cấp nội dung trực tuyến đa dạng gồm kênh truyền hình, xem lại chương trình, Phim truyền hình, Video tin tức, Giải trí, Thể thao"
+  }
+]
